@@ -1,0 +1,15 @@
+Logical Store Name
+Personal
+Trusted Root Certification Authorities
+Enterprise Trust
+Intermediate Certification Authorities
+Active Directory User Object
+Trusted Publishers
+Untrusted Certificates
+Third-Party Root Certification Authorities
+Trusted People
+Client Authentication Issuers
+Other People
+Local NonRemovable Certificates
+MSIEHistoryJournal
+Smart Card Trusted Roots
